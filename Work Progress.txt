@@ -8,3 +8,4 @@ Stopped in the video "Estrutura básica e prática com flex flow"
 05/07/22
 Made the practises from the section "Fundamentos do Flexbox - Parte 1"
 Started the section "Fundamentos do Flexbox - Parte 2"
+Stopped in the video "Estrutura básica e prática com flex"
