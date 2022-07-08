@@ -11,3 +11,5 @@ Started the section "Fundamentos do Flexbox - Parte 2"
 Stopped in the video "Estrutura básica e prática com flex"
 06/07/22
 Finished the section "Fundamentos do Flexbox - Parte 2" and started the "Projeto Integrador"
+08/07/22
+Finished the curse "Posicionando elementos com Flexbox em CSS" and "Recriando a página inicial do Instagram"
